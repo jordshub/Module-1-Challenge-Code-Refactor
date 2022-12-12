@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+body {
+    background-color: #d9dcd6;
+}
 
 /* This is style for the header section at the top of the webpage */
 header {

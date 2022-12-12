@@ -5,6 +5,10 @@
 It is essential for a codebase to be functional, clean, concise and well commented when possible. This is not only good for the user experience but also the developer.
 Through this challenge I learned the importance of attention to detail when coding, how certain CSS elements behave when altered and also the importance of accesibility.
 
+## Usage
+
+Link: https://jordshub.github.io/Module-1-Challenge-Code-Refactor/
+
 ## Credits
 
 https://www.w3schools.com/html/html5_semantic_elements.asp

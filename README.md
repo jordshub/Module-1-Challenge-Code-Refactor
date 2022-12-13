@@ -6,6 +6,8 @@ It is essential for a codebase to be functional, clean, concise and well comment
 Through this challenge I learned the importance of attention to detail when coding, how certain CSS elements behave when altered and also the importance of accessibility.
 
 ## Usage
+![image](https://user-images.githubusercontent.com/119757179/207463948-17c9d851-bca7-4ff3-b15a-c761d522df21.png)
+
 
 Link: https://jordshub.github.io/Module-1-Challenge-Code-Refactor/
 

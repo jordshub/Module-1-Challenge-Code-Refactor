@@ -8,6 +8,12 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styling for all links on the webpage */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* This is style for the header section at the top of the webpage */
 header {
     padding: 20px;
@@ -36,12 +42,6 @@ header nav {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-/* Styling for all links on the webpage */
-a {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 /* this is the main image */
